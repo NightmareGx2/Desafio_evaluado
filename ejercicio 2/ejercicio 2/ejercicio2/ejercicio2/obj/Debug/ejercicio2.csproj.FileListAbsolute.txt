@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\USER\Desktop\ejercicio 2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
